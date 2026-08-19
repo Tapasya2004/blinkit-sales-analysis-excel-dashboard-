@@ -1,6 +1,6 @@
 # Blinkit Sales Analysis & Excel Dashboard
 
-![Uploading Screenshot (54).png…]()
+<img width="1441" height="810" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/74446a1a-6a4b-4398-a747-a6e043ccc2de" />
 
 ## Summary
 
