@@ -1,5 +1,7 @@
 # Blinkit Sales Analysis & Excel Dashboard
 
+![Uploading Screenshot (54).png…]()
+
 ## Summary
 
 An Excel-based sales analysis dashboard developed to evaluate Blinkit's sales performance, outlet characteristics, product performance, and customer ratings through interactive KPIs and visualizations.
